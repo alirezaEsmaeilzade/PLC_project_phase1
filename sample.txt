@@ -1,0 +1,4 @@
+struct Person begin
+    int name;
+    int id;
+end
