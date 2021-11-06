@@ -113,4 +113,6 @@ fabric.properties
 out/*
 gen/*
 .idea/*
+src/main/grammar/.antlr/*
+PLC_project_phase1.iml
 
